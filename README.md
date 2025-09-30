@@ -30,13 +30,11 @@ Choose input source:
 
 2 → Webcam (real-time cartoonization)
 
-📸 Example Results
+ ### Example Results
 
-🖼️ Original Image
 ### Original Image
 ![Original](original.png)
 
-🎭 Cartoonized Output
 ### Cartoonized Image
 ![Cartoonized](cartoonized.png)
 
