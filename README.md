@@ -34,10 +34,10 @@ Choose input source:
 
 🖼️ Original Image
 ### Original Image
-![Original](original.jpg)
+![Original](original.png)
 
 🎭 Cartoonized Output
 ### Cartoonized Image
-![Cartoonized](cartoonized.jpg)
+![Cartoonized](cartoonized.png)
 
 
