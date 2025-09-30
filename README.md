@@ -27,4 +27,17 @@ python main.py
 Choose input source:
 
 1 → Image (you’ll be asked for the image path)
+
 2 → Webcam (real-time cartoonization)
+
+📸 Example Results
+
+🖼️ Original Image
+### Original Image
+![Original](original.jpg)
+
+🎭 Cartoonized Output
+### Cartoonized Image
+![Cartoonized](cartoonized.jpg)
+
+
